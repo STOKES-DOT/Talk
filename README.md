@@ -1,0 +1,45 @@
+# Talk Archive
+
+```text
+2025-10-17: Excited States and Luminescent Properties of Organic Systems
+    Organic optoelectronic materials and luminescent properties
+    Electronic structure calculations for organic systems
+    Density functional theory and Jacob's ladder
+
+2025-11-17: Deep Learning-Based Electronic Structure Calculation Methods for Organic Functional Systems
+    Organic functional materials and density functional theory
+    Motivation for deep-learning electronic structure methods
+    DeepRSH, DeepMolH, and TD-DeepMolH
+    Timeline and expected outcomes
+
+2025-11-28: Molecular Excited States and Time-Dependent Density Functional Theory
+    Basic concepts of molecular excited states and spectra
+    Kohn-Sham and time-dependent Kohn-Sham equations
+    TDDFT formalisms: time-propagation, Sternheimer, and Casida approaches
+    Numerical methods of TDDFT
+
+2026-01-15: Molecular Excited States, Time-Dependent Density Functional Theory and Vibe-Coding with Agent
+    Molecular excited states and spectra
+    Kohn-Sham and time-dependent Kohn-Sham equations
+    TDDFT formalisms and numerical methods
+    Vibe coding for computational chemistry with agent workflows
+    VASPilot, water absorption spectrum, and automated literature review examples
+
+2026-01-30: Full Differentiable Exchange-Correlation Functional and Equivariant Graph Neural Network for Hamiltonian Prediction
+    Full differentiable exchange-correlation functional and self-interaction error
+    GradDFT package, H2 dissociation, and response-kernel calculation
+    Equivariant graph neural network architecture for Hamiltonian prediction
+    Graph neural network setup for excited-state modeling
+
+2026-03-12: Equivariant Neural Network and Quantum Chemistry with OpenClaw
+    Equivariance and covariance in DFT Hamiltonian modeling
+    Wigner-D representation, tensor field networks, and message passing
+    QHformer architecture and SO(2)/SO(3) convolution ideas
+    OpenClaw for automatic quantum chemistry and materials calculation
+
+2026-04-24: Full Differentiable TDDFT Code for Neural Network XC Functional and Automatic Quantum Chemistry with OpenClaw
+    Background on self-interaction error and TDDFT response formalism
+    TD-GradDFT response kernel with automatic differentiation
+    Training modes for neural-network exchange-correlation functionals
+    DL-TDDFT acceleration test and OpenClaw or Hermes automation workflow
+```
