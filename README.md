@@ -77,4 +77,3 @@ outside this repository.
 - DL-TDDFT acceleration with CIS-like graph neural networks and DF/Cholesky features
 - QHformer_v2 SO(2)/SE(3) hybrid-attention architecture and Hamiltonian learning benchmarks
 - OpenClaw and Hermes skills for automated quantum chemistry workflows
-- MCSCF limitations of TDDFT and automatic active-space selection with AutoCAS or ACP
