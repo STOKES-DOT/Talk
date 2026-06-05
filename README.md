@@ -4,8 +4,8 @@ Academic talk archive during my Ph.D. This repository keeps PDF versions of
 group-meeting slides, proposal materials, and research updates. Each record
 lists the talk date, title, and main topics for quick lookup.
 
-The archive currently contains PDF files only. The `2026_06_5GroupMeeting.pptx`
-deck is intentionally excluded from this batch.
+The archive currently contains PDF files only. PowerPoint source files are kept
+outside this repository.
 
 ## PDF Index
 
@@ -18,6 +18,7 @@ deck is intentionally excluded from this batch.
 | 2026-01-30 | Full Differentiable Exchange-Correlation Functional and Equivariant Graph Neural Network for Hamiltonian Prediction | [2026_01_30GroupMeeting.pdf](2026_01_30GroupMeeting.pdf) |
 | 2026-03-12 | Equivariant Neural Network and Quantum Chemistry with OpenClaw | [2026_03_12GroupMeeting.pdf](2026_03_12GroupMeeting.pdf) |
 | 2026-04-24 | Full Differentiable TDDFT Code for Neural Network XC Functional and Automatic Quantum Chemistry with OpenClaw | [2026_04_24GroupMeeting.pdf](2026_04_24GroupMeeting.pdf) |
+| 2026-06-05 | Full Differentiable TDDFT Code for Neural Network XC Functional, Automatic Quantum Chemistry with OpenClaw and Attention Based Hamiltonian Learning Model | [2026_06_5GroupMeeting.pdf](2026_06_5GroupMeeting.pdf) |
 
 ## Talk Records
 
@@ -69,3 +70,11 @@ deck is intentionally excluded from this batch.
 - TD-GradDFT response kernel with automatic differentiation
 - Training modes for neural-network exchange-correlation functionals
 - DL-TDDFT acceleration test and OpenClaw or Hermes automation workflow
+
+### 2026-06-05: Full Differentiable TDDFT Code for Neural Network XC Functional, Automatic Quantum Chemistry with OpenClaw and Attention Based Hamiltonian Learning Model
+
+- GradTDDFT response kernels and neural-network exchange-correlation training modes
+- DL-TDDFT acceleration with CIS-like graph neural networks and DF/Cholesky features
+- QHformer_v2 SO(2)/SE(3) hybrid-attention architecture and Hamiltonian learning benchmarks
+- OpenClaw and Hermes skills for automated quantum chemistry workflows
+- MCSCF limitations of TDDFT and automatic active-space selection with AutoCAS or ACP
