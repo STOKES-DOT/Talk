@@ -19,6 +19,7 @@ outside this repository.
 | 2026-03-12 | Equivariant Neural Network and Quantum Chemistry with OpenClaw | [2026_03_12GroupMeeting.pdf](2026_03_12GroupMeeting.pdf) |
 | 2026-04-24 | Full Differentiable TDDFT Code for Neural Network XC Functional and Automatic Quantum Chemistry with OpenClaw | [2026_04_24GroupMeeting.pdf](2026_04_24GroupMeeting.pdf) |
 | 2026-06-05 | Full Differentiable TDDFT Code for Neural Network XC Functional, Automatic Quantum Chemistry with OpenClaw and Attention Based Hamiltonian Learning Model | [2026_06_5GroupMeeting.pdf](2026_06_5GroupMeeting.pdf) |
+| 2026-07-03 | After Full Differentiable TDDFT Code for Neural Network XC Functional, Multi-Configuration Self-Consistent Field in Excited State | [2026_07_3GroupMeeting.pdf](2026_07_3GroupMeeting.pdf) |
 
 ## Talk Records
 
@@ -77,3 +78,12 @@ outside this repository.
 - DL-TDDFT acceleration with CIS-like graph neural networks and DF/Cholesky features
 - QHformer_v2 SO(2)/SE(3) hybrid-attention architecture and Hamiltonian learning benchmarks
 - OpenClaw and Hermes skills for automated quantum chemistry workflows
+
+### 2026-07-03: After Full Differentiable TDDFT Code for Neural Network XC Functional, Multi-Configuration Self-Consistent Field in Excited State
+
+- GradTDDFT capabilities, limitations, and comparison with differentiable XC workflows
+- Implicit SCF and Davidson training on H2, N2, QH9, and QM9 excited-state tasks
+- Static correlation limits of single-reference HF/DFT and LR-TDDFT
+- MCSCF and CASSCF active-space theory for multi-configuration excited states
+- CASPT2 and MC-PDFT as dynamic-correlation corrections beyond CASSCF
+- GradTDDFT roadmap for mesh-free NNXC, response properties, and stronger benchmark references
