@@ -20,7 +20,7 @@ outside this repository.
 | 2026-04-24 | Full Differentiable TDDFT Code for Neural Network XC Functional and Automatic Quantum Chemistry with OpenClaw | [2026_04_24GroupMeeting.pdf](2026_04_24GroupMeeting.pdf) |
 | 2026-06-05 | Full Differentiable TDDFT Code for Neural Network XC Functional, Automatic Quantum Chemistry with OpenClaw and Attention Based Hamiltonian Learning Model | [2026_06_5GroupMeeting.pdf](2026_06_5GroupMeeting.pdf) |
 | 2026-07-03 | After Full Differentiable TDDFT Code for Neural Network XC Functional, Multi-Configuration Self-Consistent Field in Excited State | [2026_07_3GroupMeeting.pdf](2026_07_3GroupMeeting.pdf) |
-| 2026-07-23 | Year-End Summary: Full Differentiable TDDFT, Learning Hamiltonian from Natural SCF, and AutoResearch Agent for Materials Discovery | [2026_07_23GroupMeeting.pdf](2026_07_23GroupMeeting.pdf) |
+| 2026-07-23 | Year-End Summary: Full Differentiable TDDFT, Learning Hamiltonian from Natural SCF, and Auto-Research Agent for Materials Discovery | [2026_07_23GroupMeeting.pdf](2026_07_23GroupMeeting.pdf) |
 
 ## Talk Records
 
@@ -89,11 +89,11 @@ outside this repository.
 - CASPT2 and MC-PDFT as dynamic-correlation corrections beyond CASSCF
 - GradTDDFT roadmap for mesh-free NNXC, response properties, and stronger benchmark references
 
-### 2026-07-23: Year-End Summary: Full Differentiable TDDFT, Learning Hamiltonian from Natural SCF, and AutoResearch Agent for Materials Discovery
+### 2026-07-23: Year-End Summary: Full Differentiable TDDFT, Learning Hamiltonian from Natural SCF, and Auto-Research Agent for Materials Discovery
 
 - Full differentiable TDDFT with implicit SCF and Davidson solver differentiation
 - qsGW-BSE@QM9 ground-state and excited-state reference tasks for neural-network XC training
 - Learning Hamiltonian from Natural SCF with QHformer-style equivariant Hamiltonian models
-- Molecular dynamics trajectory prediction and organic-system transport applications
-- AutoResearch agents for materials discovery, screening workflows, and computational task management
+- Accurate Hamiltonian prediction on molecular dynamics trajectories and organic-system transport applications
+- Auto-Research agents for materials discovery, screening workflows, and computational task management
 - Outlook on accurate excitation references, heavy-atom datasets, and XC functional benchmarks
