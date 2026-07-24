@@ -95,5 +95,6 @@ outside this repository.
 - qsGW-BSE@QM9 ground-state and excited-state reference tasks for neural-network XC training
 - Learning Hamiltonian from Natural SCF with QHformer-style equivariant Hamiltonian models
 - Accurate Hamiltonian prediction on molecular dynamics trajectories and organic-system transport applications
-- Auto-Research agents for materials discovery, screening workflows, and computational task management
-- Outlook on accurate excitation references, heavy-atom datasets, and XC functional benchmarks
+- OpenChem and ChemAgent workflows for organic materials screening and computational task management
+- HPC, Git, and LLM-Wiki standards for human-agent research collaboration
+- Outlook on accurate excitation references, heavy-atom datasets, XC functional benchmarks, and auto-research loops
