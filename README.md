@@ -21,6 +21,7 @@ outside this repository.
 | 2026-06-05 | Full Differentiable TDDFT Code for Neural Network XC Functional, Automatic Quantum Chemistry with OpenClaw and Attention Based Hamiltonian Learning Model | [2026_06_5GroupMeeting.pdf](2026_06_5GroupMeeting.pdf) |
 | 2026-07-03 | After Full Differentiable TDDFT Code for Neural Network XC Functional, Multi-Configuration Self-Consistent Field in Excited State | [2026_07_3GroupMeeting.pdf](2026_07_3GroupMeeting.pdf) |
 | 2026-07-23 | Year-End Summary: Full Differentiable TDDFT, Learning Hamiltonian from Natural SCF, and Auto-Research Agent for Materials Discovery | [2026_07_23GroupMeeting.pdf](2026_07_23GroupMeeting.pdf) |
+| 2026-08-20 | From Skills to Loop: Auto-Research, LLM+Wiki, and Agentic Infrastructure for Materials Discovery | [2026_08_20GroupMeeting.pdf](2026_08_20GroupMeeting.pdf) |
 
 ## Talk Records
 
@@ -98,3 +99,13 @@ outside this repository.
 - OpenChem and ChemAgent workflows for organic materials screening and computational task management
 - HPC, Git, and LLM-Wiki standards for human-agent research collaboration
 - Outlook on accurate excitation references, heavy-atom datasets, XC functional benchmarks, and auto-research loops
+
+### 2026-08-20: From Skills to Loop: Auto-Research, LLM+Wiki, and Agentic Infrastructure for Materials Discovery
+
+- Location: Yanqihu
+- From skills engineering to loop engineering for auto-research agents in materials discovery
+- Molecular dynamics, potential-energy surfaces, spectra, and visualization workflows as materials-loop tasks
+- ChemAgent and QPengGroup auto-research infrastructure for organic materials screening
+- Auto-Research and LLM+Wiki concepts, including architecture documents and loop state machines
+- Neural-network atom-basis design, model training, and materials design or search methods
+- Computation task management, basic agent tools, evolution edge, and state-machine loop working
