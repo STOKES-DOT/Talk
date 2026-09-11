@@ -22,6 +22,7 @@ outside this repository.
 | 2026-07-03 | After Full Differentiable TDDFT Code for Neural Network XC Functional, Multi-Configuration Self-Consistent Field in Excited State | [2026_07_3GroupMeeting.pdf](2026_07_3GroupMeeting.pdf) |
 | 2026-07-23 | Year-End Summary: Full Differentiable TDDFT, Learning Hamiltonian from Natural SCF, and Auto-Research Agent for Materials Discovery | [2026_07_23GroupMeeting.pdf](2026_07_23GroupMeeting.pdf) |
 | 2026-08-20 | From Skills to Loop: Auto-Research, LLM+Wiki, and Agentic Infrastructure for Materials Discovery | [2026_08_20GroupMeeting.pdf](2026_08_20GroupMeeting.pdf) |
+| 2026-09-11 | Environment-Adaptive Atomic Orbital Basis Function and Agent Auto-Research for Molecular Design | [2026_09_11GroupMeeting.pdf](2026_09_11GroupMeeting.pdf) |
 
 ## Talk Records
 
@@ -109,3 +110,13 @@ outside this repository.
 - Auto-Research and LLM+Wiki concepts, including architecture documents and loop state machines
 - Neural-network atom-basis design, model training, and materials design or search methods
 - Computation task management, basic agent tools, evolution edge, and state-machine loop working
+
+### 2026-09-11: Environment-Adaptive Atomic Orbital Basis Function and Agent Auto-Research for Molecular Design
+
+- Location: Institute of Physics (物理所)
+- Background from GradTDDFT to GradSCF and electronic-structure infrastructure for AI
+- Atomic orbital basis functions, electronic integrals, and basis-set families including GTOs, STOs, PWs, and NAOs
+- Contracted multi-zeta basis sets and chemical environment-adaptive basis design
+- Neural-network atom-basis design, training, q-vSZP/q-vSZPs, and EGNN contraction-coefficient modeling
+- Molecular edition protocols for atom, bond, and fragment operations
+- LLM-Wiki hypotheses, Multi-Agent-Swarm, PSO, and GA workflows for hypothesis-driven molecular evolution
