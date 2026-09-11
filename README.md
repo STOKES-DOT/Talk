@@ -113,7 +113,7 @@ outside this repository.
 
 ### 2026-09-11: Environment-Adaptive Atomic Orbital Basis Function and Agent Auto-Research for Molecular Design
 
-- Location: Institute of Physics (物理所)
+- Location: Institute of Physics 
 - Background from GradTDDFT to GradSCF and electronic-structure infrastructure for AI
 - Atomic orbital basis functions, electronic integrals, and basis-set families including GTOs, STOs, PWs, and NAOs
 - Contracted multi-zeta basis sets and chemical environment-adaptive basis design
