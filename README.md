@@ -23,6 +23,7 @@ outside this repository.
 | 2026-07-23 | Year-End Summary: Full Differentiable TDDFT, Learning Hamiltonian from Natural SCF, and Auto-Research Agent for Materials Discovery | [2026_07_23GroupMeeting.pdf](2026_07_23GroupMeeting.pdf) |
 | 2026-08-20 | From Skills to Loop: Auto-Research, LLM+Wiki, and Agentic Infrastructure for Materials Discovery | [2026_08_20GroupMeeting.pdf](2026_08_20GroupMeeting.pdf) |
 | 2026-09-11 | Environment-Adaptive Atomic Orbital Basis Function and Agent Auto-Research for Molecular Design | [2026_09_11GroupMeeting.pdf](2026_09_11GroupMeeting.pdf) |
+| 2026-10-30 | Variational Training of Environment-Adaptive Atomic Orbital Bases, Agentic XC Functional Design with iKS, and Differentiable Electronic Structure with GradSCF | [2026_10_30GroupMeeting.pdf](2026_10_30GroupMeeting.pdf) |
 
 ## Talk Records
 
@@ -120,3 +121,11 @@ outside this repository.
 - Neural-network atom-basis design, training, q-vSZP/q-vSZPs, and EGNN contraction-coefficient modeling
 - Molecular edition protocols for atom, bond, and fragment operations
 - LLM-Wiki hypotheses, Multi-Agent-Swarm, PSO, and GA workflows for hypothesis-driven molecular evolution
+
+### 2026-10-30: Variational Training of Environment-Adaptive Atomic Orbital Bases, Agentic XC Functional Design with iKS, and Differentiable Electronic Structure with GradSCF
+
+- Variational training of MACE-based environment-adaptive atomic orbital contractions and differentiable integral transformations
+- NNAO basis adaptation, electronic-density comparisons, basis-set superposition error, interaction curves, and reaction barriers
+- Inverse Kohn-Sham and Wu-Yang reference construction, with fixed-reference and self-consistent XC-functional training workflows
+- GradSCF architecture: shared HF/DFT foundations, differentiable integral inputs, numerical solvers, and response workflows for new methods
+- Benzene CIS vibronic absorption spectra with Franck-Condon and Herzberg-Teller intensity contributions
